@@ -17,5 +17,5 @@ gevent
 schedule
 requests
 click==3.3
-celery==3.1.17
+celery==5.2.2
 oml==0.1.2
