@@ -2,7 +2,7 @@ numpy
 numexpr==2.4
 pandas==0.17.1
 SQLAlchemy==0.9.1
-bottle==0.12.7
+bottle==0.12.20
 bottle-mongo==0.2.4
 bottle-websocket==0.2.8
 bottle-auth==0.3.3
